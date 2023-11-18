@@ -5,3 +5,12 @@
 
     Filename:styles.css
 */
+
+.custom {
+    width: 75%;
+}
+
+.hpcust {
+    background-color: rgba(213, 249, 236, 0.59);
+    border-radius: 20% ;
+}
